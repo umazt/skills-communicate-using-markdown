@@ -5,6 +5,4 @@
 ##### H5 Header
 ###### H6 Header
 
-
-
-added hierarchy of headers
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
